@@ -1,0 +1,11 @@
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\bin\Debug\scorpion.exe.config
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\bin\Debug\scorpion.exe
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\bin\Debug\scorpion.pdb
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.csproj.AssemblyReference.cache
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.Form1.resources
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.Properties.Resources.resources
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.csproj.GenerateResource.cache
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.csproj.CoreCompileInputs.cache
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.exe
+D:\Programming\Visual_Studio\Projects\scorpion\scorpion\obj\Debug\scorpion.pdb
